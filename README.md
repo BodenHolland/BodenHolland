@@ -31,7 +31,7 @@ Senior product manager, 9 years shipping across AEC / construction tech, fintech
 
 **[Field Guide](https://app.notion.com/p/bodenholland/Boden-s-Guide-to-SF-16ba7aa277d980f7916bd7d7813e8d94)**, a digitized version of the Last Black Man in San Francisco directors' physical map of SF, published as a public Notion doc.
 
-**Clock (Time Orientation)**, an experimental piece that reverses the frame of reference for time. Stable markers sit in the past; the present trails behind them.
+**[Clock (Time Orientation)](https://www.bodenholland.com/clock)**, an experimental piece that reverses the frame of reference for time. Stable markers sit in the past; the present trails behind them.
 
 ## 🛠 Tech Stack
 
