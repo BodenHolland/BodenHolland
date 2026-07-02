@@ -10,8 +10,8 @@ Senior product manager, 9 years shipping across AEC / construction tech, fintech
 
 - **Civic and neighborhood software**, built to be legible to a normal person, not just a power user
 - **Product work in regulated and physical domains**: construction, compliance, benefits, city data
-- **Small, opinionated tools** that do one useful thing well, ship, and get out of the way
-- **Applied GenAI in serious contexts**, where "impressive demo" is not the bar
+- **Tools** that do one useful thing well, ship, and get out of the way
+
 
 ## 🏆 Highlighted Work
 
