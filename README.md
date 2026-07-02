@@ -19,7 +19,7 @@ Senior product manager, 9 years shipping across AEC / construction tech, fintech
 
 **[kindshare](https://www.kindshare.app/)**, an equitable cost-sharing app on iOS and Google Play. Helps people navigate uneven financial dynamics in shared households and split costs fairly, without turning money into a fight.
 
-**colift**, a national civic-work platform that lets users earn hours toward the federal SNAP / ABAWD work requirement through legally qualifying volunteer tasks.
+**[colift](https://colift.org)**, a national civic-work platform that lets users earn hours toward the federal SNAP / ABAWD work requirement through legally qualifying volunteer tasks.
 
 **[AmbulanceCost.com](https://ambulancecost.com/)**, a site that lets people search estimated costs of calling 911 and receiving ambulance care. Built after a friend got a multi-thousand dollar bill from an accident that was not their fault.
 
