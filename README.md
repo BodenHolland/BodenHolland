@@ -2,6 +2,8 @@
 
 **Senior PM · Civic tools for the built environment · Founder of [Open Form](https://www.openform.company)**
 
+> Most software optimizes screens. I build tools that get people off them, into their neighborhoods and civic systems.
+
 Senior product manager, 9 years shipping across AEC / construction tech, fintech compliance, and applied GenAI. Based in SF. I run a small independent product studio called Open Form, where I design and ship civic and neighborhood tools alongside my day job.
 
 [bodenholland.com](https://bodenholland.com) · [hello@bodenholland.com](mailto:hello@bodenholland.com)
@@ -10,22 +12,22 @@ Senior product manager, 9 years shipping across AEC / construction tech, fintech
 
 - **Civic and neighborhood software**, built to be legible to a normal person, not just a power user
 - **Product work in regulated and physical domains**: construction, compliance, benefits, city data
-- **Tools** that do one useful thing well, ship, and get out of the way
-
+- **Small, opinionated tools** that do one useful thing well, ship, and get out of the way
+- **Applied GenAI in serious contexts**, where "impressive demo" is not the bar
 
 ## 🏆 Highlighted Work
 
-**[kindshare](https://kindshare.app)**, an equitable cost-sharing app on iOS and Google Play. Helps people navigate uneven financial dynamics in shared households and split costs fairly, without turning money into a fight.
+**[kindshare](https://www.kindshare.app/)**, an equitable cost-sharing app on iOS and Google Play. Helps people navigate uneven financial dynamics in shared households and split costs fairly, without turning money into a fight.
 
 **colift**, a national civic-work platform that lets users earn hours toward the federal SNAP / ABAWD work requirement through legally qualifying volunteer tasks.
 
-**[AmbulanceCost.com](https://ambulancecost.com)**, a site that lets people search estimated costs of calling 911 and receiving ambulance care. Built after a friend got a multi-thousand dollar bill from an accident that was not their fault.
+**[AmbulanceCost.com](https://ambulancecost.com/)**, a site that lets people search estimated costs of calling 911 and receiving ambulance care. Built after a friend got a multi-thousand dollar bill from an accident that was not their fault.
 
-**Your NYC**, an open-source civic project that turns city-published documents into a browsable app for neighborhoods. Started with NYC, now includes SF.
+**[Your NYC](https://www.yournyc.app)** and **[Your SF](https://www.yoursf.us)**, open-source civic tools that turn city-published documents into browsable apps for New York and San Francisco.
 
-**Local Take**, in-depth conversational city profiles that help people discover the neighborhood that fits them, as if a lifelong local were guiding them.
+**[Local Take](https://www.localtake.app)**, in-depth conversational city profiles that help people discover the neighborhood that fits them, as if a lifelong local were guiding them.
 
-**CopyThat**, a macOS app that grabs 2FA codes and auto-pastes them into any input, not just Safari.
+**[CopyThat](https://copythat2fa.com)**, a macOS app that grabs 2FA codes and auto-pastes them into any input, not just Safari.
 
 **Field Guide**, a digitized version of the Last Black Man in San Francisco directors' physical map of SF, published as a public Notion doc.
 
