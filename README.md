@@ -29,7 +29,7 @@ Senior product manager, 9 years shipping across AEC / construction tech, fintech
 
 **[CopyThat](https://copythat2fa.com)**, a macOS app that grabs 2FA codes and auto-pastes them into any input, not just Safari.
 
-**Field Guide**, a digitized version of the Last Black Man in San Francisco directors' physical map of SF, published as a public Notion doc.
+**[Field Guide](https://app.notion.com/p/bodenholland/Boden-s-Guide-to-SF-16ba7aa277d980f7916bd7d7813e8d94)**, a digitized version of the Last Black Man in San Francisco directors' physical map of SF, published as a public Notion doc.
 
 **Clock (Time Orientation)**, an experimental piece that reverses the frame of reference for time. Stable markers sit in the past; the present trails behind them.
 
