@@ -21,7 +21,7 @@ Senior product manager, 9 years shipping across AEC / construction tech, fintech
 
 **[colift](https://colift.org)**, a national civic-work platform that lets users earn hours toward the federal SNAP / ABAWD work requirement through legally qualifying volunteer tasks.
 
-**[AmbulanceCost.com](https://ambulancecost.com/)**, a site that lets people search estimated costs of calling 911 and receiving ambulance care. Built after a friend got a multi-thousand dollar bill from an accident that was not their fault.
+**[AmbulanceCost](https://ambulancecost.com/)**, a site that lets people search estimated costs of calling 911 and receiving ambulance care. Built after a friend got a multi-thousand dollar bill from an accident that was not their fault.
 
 **[Your NYC](https://www.yournyc.app)** and **[Your SF](https://www.yoursf.us)**, open-source civic tools that turn city-published documents into browsable apps for New York and San Francisco.
 
