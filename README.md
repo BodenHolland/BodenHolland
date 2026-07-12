@@ -1,6 +1,6 @@
 # Hey, I'm Boden 👋
 
-**Senior PM · Civic tools for the built environment · Founder of [Open Form](https://www.openform.company)**
+**Senior PM · Civic tools for the built environment · Builder of [Open Form](https://www.openform.company)**
 
 > Most software optimizes screens. I build tools that get people off them, into their neighborhoods and civic systems.
 
