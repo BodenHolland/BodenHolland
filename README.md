@@ -1,6 +1,6 @@
 # Hey, I'm Boden 👋
 
-**Senior PM · Civic tools for the built environment · Creator of [Open Form](https://www.openform.company)**
+**Senior PM · Creator of [Open Form](https://www.openform.company)**
 
 Senior product manager, 9 years shipping across AEC / construction tech, fintech compliance, and applied GenAI. Based in SF. I run a small independent product studio called Open Form, where I design and ship civic and neighborhood tools alongside my day job.
 
